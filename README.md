@@ -52,4 +52,7 @@ Visão Computacional: OpenCV, Ultralytics, SAM 2.0
 Deploy: Streamlit
 
 ✍️ Autor
-Gabriel Afonso - GitHub
+Gabriel Afonso 
+Diogo Casquinha
+Guilherme Pereira
+Vicente Soares
